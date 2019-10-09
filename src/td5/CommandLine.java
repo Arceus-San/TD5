@@ -27,4 +27,8 @@ public class CommandLine {
         this.quantity+=q;
     }
     
+    public int getQuantity(){
+        return this.quantity;
+    }
+    
 }
